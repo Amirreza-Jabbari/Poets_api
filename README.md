@@ -27,7 +27,7 @@ A RESTful API for accessing classical Persian poetry and literature, including w
 - Support for Hafez's ghazals, ghete, robaee, ghaside, and montasab
 - Support for Khayyam's robaee and tarane
 - Support for Moulavi's works from Shams and Masnavi
-- Access to Golestan hekayat by bab and hekayat numbers
+- Access to Golestane sa'adi by bab and hekayat numbers
 
 ---
 
