@@ -1,7 +1,7 @@
 
 # Poets API
 
-A RESTful API for accessing classical Persian poetry and literature, including works from Hafez, Khayyam, Moulavi, and Golestan hekayat.
+A RESTful API for accessing classical Persian poetry and literature, including works from Hafez, Khayyam, Moulavi, and Sa'adi.
 
 ---
 
