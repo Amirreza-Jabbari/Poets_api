@@ -43,7 +43,7 @@ A RESTful API for accessing classical Persian poetry and literature, including w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/poets-api.git
+git clone https://github.com/amirreza-jabbari/poets-api.git
 cd poets-api
 ```
 
