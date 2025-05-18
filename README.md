@@ -1,7 +1,7 @@
 
 # Poets API
 
-A RESTful API for accessing classical Persian poetry and literature, including works from Hafez, Khayyam, Moulavi, and Golestan hekayat.
+A RESTful API for accessing classical Persian poetry and literature, including works from Hafez, Khayyam, Moulavi, and Sa'adi.
 
 ---
 
@@ -27,13 +27,13 @@ A RESTful API for accessing classical Persian poetry and literature, including w
 - Support for Hafez's ghazals, ghete, robaee, ghaside, and montasab
 - Support for Khayyam's robaee and tarane
 - Support for Moulavi's works from Shams and Masnavi
-- Access to Golestan hekayat by bab and hekayat numbers
+- Access to Sa'adi's Golestan by bab and hekayat numbers
 
 ---
 
 ## Requirements
 
-- Python (3.9-slim)
+- Python
 - Django & Django REST Framework
 
 ---
@@ -43,7 +43,7 @@ A RESTful API for accessing classical Persian poetry and literature, including w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/poets-api.git
+git clone https://github.com/amirreza-jabbari/poets-api.git
 cd poets-api
 ```
 
